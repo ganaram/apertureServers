@@ -18,37 +18,37 @@
 
   - Página principal de la web, donde aparecen características básicas de nuestro hosting, un menú de navegación y la opción de logearse:
 
-    ![](Imágenes/Home.png)
+    ![](imagenes/Home.png)
 
   ​
 
   - Formulario de registro:
 
-    ![](Imágenes/Registro.png)
+    ![](imagenes/Registro.png)
 
   ​
 
   - Características de nuestro servidor:
 
-    ![](Imágenes/Características.png)
+    ![](imagenes/Características.png)
 
     ​
 
   - Servidores para juegos que ofrecemos:
 
-    ![](Imágenes/Servidores.png)
+    ![](imagenes/Servidores.png)
 
     ​
 
   - Sistema de patrocinador:
 
-    ![](Imágenes/Sponsor.png)
+    ![](imagenes/Sponsor.png)
 
     ​
 
   - Menú de edición de perfil:
 
-    ![](Imágenes/Edición de perfil.png)
+    ![](imagenes/Edición de perfil.png)
 
 - **Bibliografía**:
 
