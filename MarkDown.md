@@ -48,7 +48,7 @@
 
   - Menú de edición de perfil:
 
-    ![](imagenes/Edición de perfil.png)
+    ![](imagenes/Edición_de_perfil.png)
 
 - **Bibliografía**:
 
